@@ -1,0 +1,154 @@
+body{
+    text-align: center;
+    margin: 0;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2em;
+    color: #810955;
+}
+
+a{
+
+    margin: 20px;
+
+
+}
+hr{
+    width: 4%;
+    border: dotted;
+    border-bottom: 0;
+    color: #E8A0BF;
+}
+p{
+    font-size: 1.25em;
+}
+
+h3{
+    font-size: 1.5em;
+    color: #A084CF;
+}
+
+.profileimg{
+width: 200px;
+height: 200px;
+border-radius: 50%;
+margin-top: 60px;
+
+
+}
+
+.top-container{
+    margin-top: 0;
+    background-color: #937DC2;
+
+
+}
+h1{
+    font-size: 4em;
+    margin: 0 auto 0 auto;
+    padding-top: 200px;
+    font-family: 'Dancing Script', cursive;
+}
+.cloud1{
+    position: absolute;
+    right: 15%;
+    margin-top: 50px;
+}
+.cloud2{
+    position: absolute;
+    left: 15%;
+}
+.mountain{
+
+margin-top: 100px;
+width: 400px;
+
+}
+.middle-container{
+    text-align: center;
+
+}
+.bio{
+
+    margin-bottom: 50px;
+}
+
+.skills{
+margin-top: 50px;
+
+}
+
+
+.skill-row{
+    width: 50%;
+    text-align: left;
+    margin: 50px auto 100px auto;
+    line-height: 2;
+
+
+
+}
+
+.btn {
+    margin-top: 100px;
+    background: #3e0dba;
+    background-image: -webkit-linear-gradient(top, #3e0dba, #009dff);
+    background-image: -moz-linear-gradient(top, #3e0dba, #009dff);
+    background-image: -ms-linear-gradient(top, #3e0dba, #009dff);
+    background-image: -o-linear-gradient(top, #3e0dba, #009dff);
+    background-image: linear-gradient(to bottom, #3e0dba, #009dff);
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: Arial;
+    color: #120f12;
+    font-size: 19px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #e016be;
+    background-image: -webkit-linear-gradient(top, #e016be, #e48eed);
+    background-image: -moz-linear-gradient(top, #e016be, #e48eed);
+    background-image: -ms-linear-gradient(top, #e016be, #e48eed);
+    background-image: -o-linear-gradient(top, #e016be, #e48eed);
+    background-image: linear-gradient(to bottom, #e016be, #e48eed);
+    text-decoration: none;
+  }
+
+.java{
+    width: 24%;
+    float: left;
+    margin-right: 30px;
+   
+}
+.webd{
+    width: 24%;
+    float: right;
+    margin-left: 30px;
+}
+.dsa{
+    width: 24%;
+    float: left;
+    margin-right: 30px;
+}
+
+.touch{
+margin-top: 50px;
+
+}
+.bottom-container{
+    background-color: #9CB4CC;
+    text-align: center;
+    padding: 1%;
+    
+    margin-top: 50px;
+}
+.cp{
+font-size:medium;
+padding-top: 10px;
+
+
+}
